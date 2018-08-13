@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace PluginArchitectureSample.Controllers
+namespace Plugin1.Controllers
 {
     public class BlogController : Controller
     {
